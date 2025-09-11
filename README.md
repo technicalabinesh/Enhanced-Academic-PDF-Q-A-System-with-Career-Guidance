@@ -261,5 +261,7 @@ pip install pandas
 pip install pickle-mixin
 
 # Optional (if using YouTube integration, web requests, etc.)
+
 pip install requests
+
 pip install youtube-search-python
